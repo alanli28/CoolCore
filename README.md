@@ -8,7 +8,7 @@ This project is a Poisson's equation solver designed to facilitate the analysis 
 ### Prerequisites
 Before you begin, ensure you have the following requirements installed:
 - Python 3.x
-- Relevant Python libraries: NumPy, Matplotlib, etc. (A `requirements.txt` file can be provided for easy installation via pip)
+- Relevant Python libraries: NumPy, Matplotlib
 
 ### Installation
 1. Unzip the zip file into your desired directory.
