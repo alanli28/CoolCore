@@ -1,4 +1,4 @@
-# CoolCoreQuest - Poisson's Equation Solver
+# CoolCore - Poisson's Equation Solver
 
 ## Introduction
 This project is a Poisson's equation solver designed to facilitate the analysis and visualization of steady-state temperature distributions in various systems, with a particular emphasis on thermal management within microprocessors.
